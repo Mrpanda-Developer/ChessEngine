@@ -1,4 +1,4 @@
-# Chess Game with AI - Readme
+# Chess Engine
 
 ## Description
 A simple chess game implemented in C++ featuring an AI opponent using the minimax algorithm with an evaluation function. The game supports all basic chess rules, including special moves like castling, en passant, and pawn promotion.
